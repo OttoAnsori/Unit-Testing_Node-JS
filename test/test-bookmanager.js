@@ -1,5 +1,5 @@
 const Book = require('./book');
-const BookManager = require('./bookManager');
+const BookManager = require('./bookmanager');
 
 describe('BookManager', () => {
     let bookManager;
